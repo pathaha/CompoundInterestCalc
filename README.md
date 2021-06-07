@@ -1,1 +1,2 @@
 # CompoundInterestCalc
+Run CompoundInterestCalculator.py
